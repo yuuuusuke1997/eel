@@ -20,9 +20,9 @@ git clone https://github.com/yuuuusuke1997/arashi.git
 ```
 
 ## Usage
-**step1. scraping_arashi.py**
+**step1. scraping_eel.py**
 
-1. Add these libraries:
+Add these libraries:
 ```
 $pip install beautifulsoup4
 $pip install requests
@@ -30,16 +30,12 @@ $pip install urllib3
 $pip install pandas
 ```
 
-**step2. wakati_arashi.py**
+**step2. morphological_analysis_eel.py**
 
-Add this library on Jupyter Notebook:
+Add these libraries:
 ```
-$pip install matplotlib
+$pip install Janome
+$pip install gensim
 ```
 
-**step2. wordcloud_arashi.ipynb**
-
-Add this library on Jupyter Notebook:
-```
-$pip install matplotlib
-```
+**step2. word2vec_eel.ipynb**
