@@ -1,18 +1,16 @@
-Visualize lyrics and predict what ARASHI wanted to tell us in Python. 
+Recommend an eel store simlilar to my favorite eel store in Python.
 
 ## Description
-* get the lyrics for all songs
+* get the store names and reviews of all eel restaurants in Fukuoka from tebelog.com
 
 * clean up for getting accurate date
 
-* visualize lyrics by wordcloud on Jupyter Notebook
+* recommend an eel store simlilar to your favorite
 
 ## Requirement
 * Windows10
 
 * Python 3.8.0
-
-* Jupyter Notebook(Anaconda3)
 
 ## Install
 ```
