@@ -1,4 +1,4 @@
-**Recommend an eel store simlilar to my favorite eel store in Python.**
+**Recommend an eel store simlilar to your favorite eel store in Python.**
 
 ## Description
 * get the store names and reviews of all eel restaurants in Fukuoka from tebelog.com
