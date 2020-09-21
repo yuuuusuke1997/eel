@@ -15,7 +15,7 @@
 Git clone is easiest to install these files:
 ```
 git clone https://github.com/yuuuusuke1997/eel.git
-cd eel
+cd word2vec_eel
 ```
 
 ## Usage
